@@ -2,3 +2,8 @@ h1{
     background-color: bisque;
     color: blue;
 }
+p{
+    color: red;
+    background-color: black;
+    padding: 20px;
+}
